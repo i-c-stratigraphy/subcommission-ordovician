@@ -18,8 +18,8 @@ See the [Conferences](conferences) page for a list of upcoming events.
 
 The annual Ordovician News provides an in-depth overview of the activities of members of our community and contact information to facilitate strengthing scientific connections. See the latest issue and the backlog of the [Ordovician News](news) page.
 
-<a href="files/Ordovician_News_2023.pdf">
-    <img src ="images/Ordovician_News_2023.jpg" alt="Ordovician News Newsletter" style="width:400px; border:solid 1px black" />
+<a href="files/Ordovician_News_2024.pdf">
+    <img src ="images/Ordovician_News_2024.png" alt="Ordovician News Newsletter" style="width:400px; border:solid 1px black" />
 </a>
 
 
