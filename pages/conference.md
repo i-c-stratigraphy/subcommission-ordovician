@@ -5,6 +5,12 @@ permalink: /conferences
 ---
 ## Upcoming Conferences
 
+#### IGCP735 regional meeting in Kitab Geological National Nature Park, Uzbekistan
+The second circular for the IGCP735 regional meeting and field excursion, which will take place in Kitab Geological National Nature Park, Uzbekistan, from August 4 to 11, 2026. * deadline for registration: February 15th, 2026 (be careful: the number of participants is limited);* deadline for abstract submission: March 31st, 2026; For any information, please contact Firuza Salimova: coral06@mail.ru
+
+#### The 15th International Symposium on the Ordovician System 
+The meeting will be held at Xi’an City, China during May 20-24, 2027. Please see details of the meeting in the First circular: (a separated pdf named ISOS15 First Circular (pdf version 2026-02-28)
+
 #### Upcoming IGCP 735 conferences
 
 Many additional Ordovician conferences or sessions are being organized by IGCP Project 735 during 2021 to 2025.  Visit the project website: <https://rocksnrol.wordpress.com/meetings/> for the most recent information about these planned events including upcoming annual meetings in Argentina and China as well as organized sessions held in conjunction with other conferences.
@@ -20,6 +26,11 @@ The aim of this workshop is to encourage presentations describing total ecosyste
 ---
 
 ## Past Conferences
+
+#### 
+From 17th to 21st October, the 2025 Annual Meeting of IGCP Project 735 convened at Central South University in Changsha, China. Approximately 70 participants attended. The programme featured 35 oral presentations, 21 poster displays, and one workshop. The conference also included a one-day field trip during the meeting and a five-day post-conference field excursion. Three students received the Best Oral Presentation award, and one student received the Best Poster Presentation award.
+
+The IGCP735 regional meeting was held in Camaret (Brittany, France) between the 21st and 23rd September 2025. The meeting report, the agenda of the meeting and a compilation of the meeting’s abstracts (talks and posters) is available here: https://www.assopaleo.fr/medias/files/apf-nume-ro-spe-cial-3.pdf
 
 #### STRATI, 4th International Congress on Stratigraphy, Lille, France, July 2023
 
