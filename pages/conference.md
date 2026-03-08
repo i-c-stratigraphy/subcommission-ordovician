@@ -11,7 +11,11 @@ The second circular for the IGCP735 regional meeting and field excursion, which 
 #### The 15th International Symposium on the Ordovician System 
 The meeting will be held at Xi’an City, China during May 20-24, 2027. Please see details of the meeting in the First circular: (a separated pdf named ISOS15 First Circular (pdf version 2026-02-28)
 
-#### Upcoming IGCP 735 conferences
+---
+
+## Past Conferences
+
+#### IGCP 735 conferences
 
 Many additional Ordovician conferences or sessions are being organized by IGCP Project 735 during 2021 to 2025.  Visit the project website: <https://rocksnrol.wordpress.com/meetings/> for the most recent information about these planned events including upcoming annual meetings in Argentina and China as well as organized sessions held in conjunction with other conferences.
 
@@ -22,10 +26,6 @@ The third annual meeting of IGCP 735 will be held from 6-13 October at Córdoba 
 #### Field meeting of IGCP 735 in Llandrindod, Wales, July 2025
 
 The aim of this workshop is to encourage presentations describing total ecosystems and exceptionally preserved faunas and floras (especially ones that are less well known) from the Cambrian to Silurian. Fieldwork (two days) will include visits to the Castle Bank Lagerstätte, and a selection of places that will hopefully include Llanfawr.
-
----
-
-## Past Conferences
 
 #### 
 From 17th to 21st October, the 2025 Annual Meeting of IGCP Project 735 convened at Central South University in Changsha, China. Approximately 70 participants attended. The programme featured 35 oral presentations, 21 poster displays, and one workshop. The conference also included a one-day field trip during the meeting and a five-day post-conference field excursion. Three students received the Best Oral Presentation award, and one student received the Best Poster Presentation award.
