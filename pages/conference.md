@@ -9,7 +9,7 @@ permalink: /conferences
 The second circular for the IGCP735 regional meeting and field excursion, which will take place in Kitab Geological National Nature Park, Uzbekistan, from August 4 to 11, 2026. * deadline for registration: February 15th, 2026 (be careful: the number of participants is limited);* deadline for abstract submission: March 31st, 2026; For any information, please contact Firuza Salimova: coral06@mail.ru
 
 #### The 15th International Symposium on the Ordovician System 
-The meeting will be held at Xi’an City, China during May 20-24, 2027. Please see details of the meeting in the First circular: (a separated pdf named ISOS15 First Circular ([pdf version 2026-02-28](https://github.com/i-c-stratigraphy/subcommission-ordovician/blob/master/ISOS15%20First%20Circular%20(pdf%20version%202026-02-28)(1).pdf))
+The meeting will be held at Xi’an City, China during May 20-24, 2027. Please see details of the meeting in the First circular: (a separated pdf named ISOS15 First Circular ([pdf version 2026-02-28](ISOS15 First Circular (pdf version 2026-02-28)(1).pdf)
 
 [No. 38 (2020)](files/Ordovician_News_2020.pdf)
 
