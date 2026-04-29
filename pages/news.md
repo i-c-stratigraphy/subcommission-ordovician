@@ -13,6 +13,7 @@ All current and former newsletters are available for download in pdf format:
     <img src="images/Ordovician_News_2024.png" style="border:solid 1px black; width:300px;" alt="link to Ordo News" />
 </a>
 
+* [No. 43 (2025)](ORDOVICIANNEWS43.pdf)
 * [No. 42 (2024)](files/Ordovician_News_2024.pdf)
 * [No. 41 (2023)](files/Ordovician_News_2023.pdf)
 * [No. 40 (2022)](files/Ordovician_News_2022.pdf)
